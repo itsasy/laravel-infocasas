@@ -23,6 +23,8 @@ return [
 
     'allowed_origins_patterns' => [],
 
+    'access_control_allow_origin' => ['*'],
+
     'allowed_headers' => ['*'],
 
     'exposed_headers' => [],
